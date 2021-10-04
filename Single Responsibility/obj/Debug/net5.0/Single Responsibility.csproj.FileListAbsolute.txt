@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\bin\Debug\net5.0\Single Responsibility.exe
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\bin\Debug\net5.0\Single Responsibility.deps.json
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\bin\Debug\net5.0\Single Responsibility.runtimeconfig.json
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\bin\Debug\net5.0\Single Responsibility.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\bin\Debug\net5.0\Single Responsibility.dll
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\bin\Debug\net5.0\ref\Single Responsibility.dll
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\bin\Debug\net5.0\Single Responsibility.pdb
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\Single Responsibility.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\Single Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\Single Responsibility.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\Single Responsibility.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\Single Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\Single Responsibility.dll
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\ref\Single Responsibility.dll
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\Single Responsibility.pdb
+C:\Users\Admin\source\repos\SOLID\Single Responsibility\obj\Debug\net5.0\Single Responsibility.genruntimeconfig.cache

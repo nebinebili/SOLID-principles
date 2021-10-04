@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\bin\Debug\net5.0\Open Closed Principle.exe
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\bin\Debug\net5.0\Open Closed Principle.deps.json
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\bin\Debug\net5.0\Open Closed Principle.runtimeconfig.json
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\bin\Debug\net5.0\Open Closed Principle.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\bin\Debug\net5.0\Open Closed Principle.dll
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\bin\Debug\net5.0\ref\Open Closed Principle.dll
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\bin\Debug\net5.0\Open Closed Principle.pdb
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\Open Closed Principle.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\Open Closed Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\Open Closed Principle.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\Open Closed Principle.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\Open Closed Principle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\Open Closed Principle.dll
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\ref\Open Closed Principle.dll
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\Open Closed Principle.pdb
+C:\Users\Admin\source\repos\SOLID\Open Closed Principle\obj\Debug\net5.0\Open Closed Principle.genruntimeconfig.cache

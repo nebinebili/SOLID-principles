@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SOLID\SOLID\bin\Debug\net5.0\SOLID.exe
+C:\Users\Admin\source\repos\SOLID\SOLID\bin\Debug\net5.0\SOLID.deps.json
+C:\Users\Admin\source\repos\SOLID\SOLID\bin\Debug\net5.0\SOLID.runtimeconfig.json
+C:\Users\Admin\source\repos\SOLID\SOLID\bin\Debug\net5.0\SOLID.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SOLID\SOLID\bin\Debug\net5.0\SOLID.dll
+C:\Users\Admin\source\repos\SOLID\SOLID\bin\Debug\net5.0\ref\SOLID.dll
+C:\Users\Admin\source\repos\SOLID\SOLID\bin\Debug\net5.0\SOLID.pdb
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\SOLID.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\SOLID.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\SOLID.dll
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\ref\SOLID.dll
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\SOLID.pdb
+C:\Users\Admin\source\repos\SOLID\SOLID\obj\Debug\net5.0\SOLID.genruntimeconfig.cache

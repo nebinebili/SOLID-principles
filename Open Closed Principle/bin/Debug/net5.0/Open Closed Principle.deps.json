@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Open Closed Principle/1.0.0": {
+        "runtime": {
+          "Open Closed Principle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Open Closed Principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

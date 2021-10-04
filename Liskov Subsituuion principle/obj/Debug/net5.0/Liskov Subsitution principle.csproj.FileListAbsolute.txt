@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\bin\Debug\net5.0\Liskov Subsitution principle.exe
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\bin\Debug\net5.0\Liskov Subsitution principle.deps.json
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\bin\Debug\net5.0\Liskov Subsitution principle.runtimeconfig.json
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\bin\Debug\net5.0\Liskov Subsitution principle.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\bin\Debug\net5.0\Liskov Subsitution principle.dll
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\bin\Debug\net5.0\ref\Liskov Subsitution principle.dll
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\bin\Debug\net5.0\Liskov Subsitution principle.pdb
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\Liskov Subsitution principle.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\Liskov Subsitution principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\Liskov Subsitution principle.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\Liskov Subsitution principle.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\Liskov Subsitution principle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\Liskov Subsitution principle.dll
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\ref\Liskov Subsitution principle.dll
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\Liskov Subsitution principle.pdb
+C:\Users\Admin\source\repos\SOLID\Liskov Subsituuion principle\obj\Debug\net5.0\Liskov Subsitution principle.genruntimeconfig.cache

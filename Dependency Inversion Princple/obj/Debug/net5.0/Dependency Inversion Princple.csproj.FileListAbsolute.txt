@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\bin\Debug\net5.0\Dependency Inversion Princple.exe
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\bin\Debug\net5.0\Dependency Inversion Princple.deps.json
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\bin\Debug\net5.0\Dependency Inversion Princple.runtimeconfig.json
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\bin\Debug\net5.0\Dependency Inversion Princple.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\bin\Debug\net5.0\Dependency Inversion Princple.dll
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\bin\Debug\net5.0\ref\Dependency Inversion Princple.dll
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\bin\Debug\net5.0\Dependency Inversion Princple.pdb
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\Dependency Inversion Princple.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\Dependency Inversion Princple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\Dependency Inversion Princple.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\Dependency Inversion Princple.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\Dependency Inversion Princple.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\Dependency Inversion Princple.dll
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\ref\Dependency Inversion Princple.dll
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\Dependency Inversion Princple.pdb
+C:\Users\Admin\source\repos\SOLID\Dependency Inversion Princple\obj\Debug\net5.0\Dependency Inversion Princple.genruntimeconfig.cache
